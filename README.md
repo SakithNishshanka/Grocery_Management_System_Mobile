@@ -159,12 +159,6 @@ While the project is under continuous development, a comprehensive API documenta
 
 This project was developed as a team effort at **SLIIT** (Sri Lanka Institute of Information Technology). We are deeply grateful to our lecturers and mentors for their invaluable guidance, support, and expertise throughout this journey.
 
-**Our Team:**
-- [Your Name](https://github.com/your-profile) - Full Stack Developer / Team Lead
-- [Team Member 2](https://github.com/their-profile) - Frontend Developer
-- [Team Member 3](https://github.com/their-profile) - Backend Developer
-- [Team Member 4](https://github.com/their-profile) - UI/UX Designer & Developer
-
 ---
 
 ## 🚀 Future Enhancements
