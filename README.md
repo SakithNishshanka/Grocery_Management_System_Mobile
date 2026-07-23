@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to reach out:
 
 - **Sakith Nishshanka:** sakithnishshankawork@gmail.com
-- **Project Link:** (https://github.com/SakithNishshanka/grocery-management-system)
+- **Project Link:** https://github.com/SakithNishshanka/https---github.com-SakithNishshanka-Grocery_Management_System_Mobile.git
 
 ---
 
